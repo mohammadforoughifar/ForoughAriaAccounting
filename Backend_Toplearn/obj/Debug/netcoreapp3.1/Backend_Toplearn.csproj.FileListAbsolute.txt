@@ -1,0 +1,120 @@
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\appsettings.json
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Backend_Toplearn.exe
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Backend_Toplearn.deps.json
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Backend_Toplearn.runtimeconfig.json
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Backend_Toplearn.runtimeconfig.dev.json
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Backend_Toplearn.dll
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Backend_Toplearn.pdb
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\Backend_Toplearn.AssemblyInfoInputs.cache
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\Backend_Toplearn.AssemblyInfo.cs
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\Backend_Toplearn.RazorTargetAssemblyInfo.cache
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\Backend_Toplearn.csproj.CopyComplete
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\staticwebassets\Backend_Toplearn.StaticWebAssets.Manifest.cache
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\staticwebassets\Backend_Toplearn.StaticWebAssets.xml
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\Backend_Toplearn.dll
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\Backend_Toplearn.pdb
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\Backend_Toplearn.genruntimeconfig.cache
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\Backend_Toplearn.csproj.CoreCompileInputs.cache
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\Backend_Toplearn.MvcApplicationPartsAssemblyInfo.cs
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\Backend_Toplearn.MvcApplicationPartsAssemblyInfo.cache
+D:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\Backend_Toplearn.csprojAssemblyReference.cache
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\appsettings.json
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Backend_Toplearn.exe
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Backend_Toplearn.deps.json
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Backend_Toplearn.runtimeconfig.json
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Backend_Toplearn.runtimeconfig.dev.json
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Backend_Toplearn.dll
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Backend_Toplearn.pdb
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\Backend_Toplearn.AssemblyInfoInputs.cache
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\Backend_Toplearn.AssemblyInfo.cs
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\Backend_Toplearn.csproj.CoreCompileInputs.cache
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\Backend_Toplearn.MvcApplicationPartsAssemblyInfo.cs
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\Backend_Toplearn.MvcApplicationPartsAssemblyInfo.cache
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\Backend_Toplearn.RazorTargetAssemblyInfo.cache
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\Backend_Toplearn.csproj.CopyComplete
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\staticwebassets\Backend_Toplearn.StaticWebAssets.Manifest.cache
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\staticwebassets\Backend_Toplearn.StaticWebAssets.xml
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\Backend_Toplearn.dll
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\Backend_Toplearn.pdb
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\Backend_Toplearn.genruntimeconfig.cache
+E:\programming\Source\React\react_level2\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\Backend_Toplearn.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Backend_Toplearn.exe
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Backend_Toplearn.deps.json
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Backend_Toplearn.runtimeconfig.json
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Backend_Toplearn.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Backend_Toplearn.dll
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Backend_Toplearn.pdb
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\Backend_Toplearn.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\Backend_Toplearn.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\Backend_Toplearn.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\Backend_Toplearn.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\Backend_Toplearn.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\Backend_Toplearn.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\Backend_Toplearn.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\Backend_Toplearn.csproj.CopyComplete
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\staticwebassets\Backend_Toplearn.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\staticwebassets\Backend_Toplearn.StaticWebAssets.xml
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\Backend_Toplearn.dll
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\Backend_Toplearn.pdb
+C:\Users\Administrator\Desktop\New folder (2)\Backend_Toplearn\Backend_Toplearn\Backend_Toplearn\obj\Debug\netcoreapp3.1\Backend_Toplearn.genruntimeconfig.cache

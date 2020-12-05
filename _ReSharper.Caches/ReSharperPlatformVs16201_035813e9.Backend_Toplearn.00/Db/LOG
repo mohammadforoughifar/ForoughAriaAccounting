@@ -1,0 +1,54 @@
+2020/11/22-07:43:48.373 14b0 Recovering log #192
+2020/11/22-07:43:48.457 14b0 Level-0 table #210: started
+2020/11/22-07:43:48.471 14b0 Level-0 table #210: 3018632 bytes OK
+2020/11/22-07:43:48.476 14b0 Delete type=0 #192
+2020/11/22-07:43:48.477 14b0 Delete type=3 #190
+2020/11/22-07:43:49.803 20c8 Compacting 1@0 + 3@1 files
+2020/11/22-07:43:49.843 20c8 Generated table #212: 490 keys, 149558 bytes
+2020/11/22-07:43:49.869 20c8 Generated table #213: 431 keys, 409949 bytes
+2020/11/22-07:43:49.882 20c8 Generated table #214: 97 keys, 2616093 bytes
+2020/11/22-07:43:49.888 20c8 Generated table #215: 70 keys, 301768 bytes
+2020/11/22-07:43:49.888 20c8 Compacted 1@0 + 3@1 files => 3477368 bytes
+2020/11/22-07:43:49.890 20c8 compacted to: files[ 0 4 31 0 0 0 0 ]
+2020/11/22-07:43:49.944 20c8 Compacting 1@1 + 10@2 files
+2020/11/22-07:43:49.990 20c8 Generated table #216: 4283 keys, 2149356 bytes
+2020/11/22-07:43:50.042 20c8 Generated table #217: 4759 keys, 2172617 bytes
+2020/11/22-07:43:50.076 20c8 Generated table #218: 4796 keys, 2151896 bytes
+2020/11/22-07:43:50.117 20c8 Generated table #219: 4290 keys, 2161975 bytes
+2020/11/22-07:43:50.153 20c8 Generated table #220: 5030 keys, 2158058 bytes
+2020/11/22-07:43:50.196 20c8 Generated table #221: 4736 keys, 2171944 bytes
+2020/11/22-07:43:50.240 20c8 Generated table #222: 5035 keys, 2158351 bytes
+2020/11/22-07:43:50.281 20c8 Generated table #223: 4419 keys, 2167465 bytes
+2020/11/22-07:43:50.326 20c8 Generated table #224: 4800 keys, 2156575 bytes
+2020/11/22-07:43:50.368 20c8 Generated table #225: 2052 keys, 2036032 bytes
+2020/11/22-07:43:50.368 20c8 Compacted 1@1 + 10@2 files => 21484269 bytes
+2020/11/22-07:43:50.374 20c8 Delete type=2 #186
+2020/11/22-07:43:50.374 20c8 Delete type=2 #187
+2020/11/22-07:43:50.375 20c8 Delete type=2 #194
+2020/11/22-07:43:50.375 20c8 Delete type=2 #210
+2020/11/22-07:43:50.376 20c8 compacted to: files[ 0 3 31 0 0 0 0 ]
+2020/11/22-07:43:50.446 20c8 Compacting 1@1 + 2@2 files
+2020/11/22-07:43:50.481 20c8 Generated table #226: 1350 keys, 2146461 bytes
+2020/11/22-07:43:50.568 20c8 Generated table #227: 752 keys, 3611285 bytes
+2020/11/22-07:43:50.568 20c8 Compacted 1@1 + 2@2 files => 5757746 bytes
+2020/11/22-07:43:50.571 20c8 Delete type=2 #195
+2020/11/22-07:43:50.571 20c8 Delete type=2 #196
+2020/11/22-07:43:50.572 20c8 Delete type=2 #197
+2020/11/22-07:43:50.572 20c8 Delete type=2 #198
+2020/11/22-07:43:50.572 20c8 Delete type=2 #199
+2020/11/22-07:43:50.572 20c8 Delete type=2 #200
+2020/11/22-07:43:50.573 20c8 Delete type=2 #201
+2020/11/22-07:43:50.574 20c8 Delete type=2 #202
+2020/11/22-07:43:50.574 20c8 Delete type=2 #203
+2020/11/22-07:43:50.574 20c8 Delete type=2 #204
+2020/11/22-07:43:50.575 20c8 Delete type=2 #212
+2020/11/22-07:43:50.575 20c8 compacted to: files[ 0 2 31 0 0 0 0 ]
+2020/11/22-07:43:58.380 20c8 Compacting 1@1 + 1@2 files
+2020/11/22-07:43:58.411 20c8 Generated table #228: 357 keys, 674300 bytes
+2020/11/22-07:43:58.411 20c8 Compacted 1@1 + 1@2 files => 674300 bytes
+2020/11/22-07:43:58.413 20c8 Delete type=2 #206
+2020/11/22-07:43:58.413 20c8 Delete type=2 #207
+2020/11/22-07:43:58.413 20c8 Delete type=2 #208
+2020/11/22-07:43:58.414 20c8 Delete type=2 #214
+2020/11/22-07:43:58.414 20c8 Delete type=2 #215
+2020/11/22-07:43:58.414 20c8 compacted to: files[ 0 1 31 0 0 0 0 ]
